@@ -37,7 +37,7 @@ A.
 Description of website technologies used to develop this app.
 
 - REACT Router 4.1.1
-- REACT.JS based using [create-react-app](https://github.com/facebookincubator/create-react-app), currently it is a thin layer on top of many amazing community projects, such as ([create-react-app readme.md](public/Create-React-App-README.md)):
+- REACT.JS based using [create-react-app](https://github.com/facebookincubator/create-react-app), currently it is a thin layer on top of many amazing community projects, such as ([create-react-app readme.md](https://github.com/DKMitt/reactjs16/blob/master/Create-React-App-README.md)):
 
 - webpack with webpack-dev-server, html-webpack-plugin and style-loader
   Babel with ES6 and extensions used by Facebook (JSX, object spread, class properties)
