@@ -1,6 +1,8 @@
 # React.JS 16 
 
-A .
+A look at some of the new features with React.JS 16 (aka React Fiber) a better working understanding with Components, using Props, working with State, Inline Conditionals & Basic Events, and LifeCycle Methods.
+
+
 
 
 __Project Status - Last Updated, 01/12/2018__
@@ -10,29 +12,31 @@ __Project Status - Last Updated, 01/12/2018__
 ### Table of Contents
 
   -  Description
-  -  What I Learned From This 
-  -  Website Technologies 
-  -  How to Use This App
+  -  What I Learned From Working With This Tutorial
+  -  Website Technologies Used
+  -  How to View This App
   -  File and Directory Structure
   -  Revision History
 
 ----
 
 ### Description
-A.
+A look at some of the new features with React.JS 16 (aka React Fiber) a better working understanding with Components, using Props, working with State, Inline Conditionals & Basic Events, and LifeCycle Methods.
+
+
 
 ----
 
-### What I Learned From This
-- ​
-- ​
--  
+### What I Learned From Working With This Tutorial
+- ​A Better Understanding & Creating of Components
+- ​State, Inline Conditionals & Basic Events
+- LifeCycle Methods 
 - ​
 - ​
 
 ----
 
-### Website Technologies
+### Website Technologies Used
 
 Description of website technologies used to develop this app.
 
