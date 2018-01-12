@@ -52,12 +52,12 @@ Description of website technologies used to develop this app.
   ​
 
 __<u>Dependecies</u>__
-    firebase: 4.1.3,
+ ```   
     react: 15.6.1,
     react-dom: 15.6.1,
     react-router: 4.1.1,
     react-router-dom: 4.1.1
-
+```
 ----
 
 
