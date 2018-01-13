@@ -1,11 +1,11 @@
 # React.JS 16 
 
-To take a look at some of the new features with React.JS 16 (aka React Fiber) a better working understanding with Components, using Props, working with State, Inline Conditionals & Basic Events, and LifeCycle Methods.
+To take a look at some of the new features with React.JS 16 (aka React Fiber) a better working understanding Components, using Props, working with State, Basic Conditionals in JSX, Basic Events, and LifeCycle Methods.
 
 
 
 
-__Project Status - Last Updated, 01/12/2018__
+__Project Status - Date Completed: 01/12/2018__
 
 ----
 
@@ -21,8 +21,7 @@ __Project Status - Last Updated, 01/12/2018__
 ----
 
 ### Description
-To take a look at some of the new features with React.JS 16 (aka React Fiber) and get a better working understanding of with Components, using Props, working with State, Inline Conditionals & Basic Events, and LifeCycle Methods.
-
+To take a look at some of the new features with React.JS 16 (aka React Fiber) and get a better working understanding of Components, using Props, working with State, Inline Conditionals & Basic Events, and LifeCycle Methods.
 
 
 ----
@@ -40,7 +39,6 @@ To take a look at some of the new features with React.JS 16 (aka React Fiber) an
 
 Description of website technologies used to develop this app.
 
-- REACT Router 4.1.1
 - REACT.JS based using [create-react-app](https://github.com/facebookincubator/create-react-app), currently it is a thin layer on top of many amazing community projects, such as ([create-react-app readme.md](public/Create-React-App-README.md)):
 
 - webpack with webpack-dev-server, html-webpack-plugin and style-loader
@@ -57,10 +55,9 @@ Description of website technologies used to develop this app.
 
 __<u>Dependecies</u>__
  ```   
-    react: 15.6.1,
-    react-dom: 15.6.1,
-    react-router: 4.1.1,
-    react-router-dom: 4.1.1
+    react: 16.2.0,
+    react-dom: 16.2.0,
+    react-scripts: 1.0.17
 ```
 ----
 
@@ -84,16 +81,6 @@ To start the app use the following command
 .
 ├── public
 │   │
-│   ├── assets
-│   │   │
-│   │   └── img
-│   │       │
-│   │       ├── 
-│   │       │
-│   │       ├── 
-│   │       │
-│   │       └── 
-│   │
 │   ├── favicon.ico
 │   │
 │   ├── index.html
@@ -101,10 +88,6 @@ To start the app use the following command
 │   └── manifest.json
 │
 ├── src
-│   │
-│   ├── img
-│   │   │
-│   │   └── 
 │   │
 │   ├── App.css
 │   │
@@ -115,6 +98,8 @@ To start the app use the following command
 │   ├── index.css
 │   │
 │   ├── index.js
+│   │
+│   ├── logo.svg
 │   │
 │   └── registerServiceWorker.js
 │ 
@@ -131,7 +116,7 @@ To start the app use the following command
 ----
 ### Revision History 
 
-Description of revisions made - __Last Updated 01/12/2018__
+Description of revisions made - __Date Completed: 01/12/2018__
 
-  - [x] Dev - file and directory structure creation  - 01/12/2018
-  - [x] Dev - file and directory structure creation  - 01/12/2018
+  - [x] Dev - file and directory structure creation & completion  - 01/12/2018
+
