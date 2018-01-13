@@ -86,7 +86,9 @@ To start the app use the following command
 │   │
 │   ├── index.html
 │   │
-│   └── manifest.json
+│   ├── manifest.json
+│   │
+│   └── reactjs16.gif
 │
 ├── src
 │   │
