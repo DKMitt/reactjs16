@@ -1,6 +1,6 @@
 # React.JS 16 
 
-To take a look at some of the new features with React.JS 16 (aka React Fiber) a better working understanding Components, using Props, working with State, Basic Conditionals in JSX, Basic Events, and LifeCycle Methods.
+To take a look at some of the new features in React.JS 16 (aka React Fiber) and to get a better working understanding of Components, using Props, working with State, Basic Conditionals in JSX, Basic Events, and LifeCycle Methods.
 
 
 
@@ -21,7 +21,7 @@ __Project Status - Date Completed: 01/12/2018__
 ----
 
 ### Description
-To take a look at some of the new features with React.JS 16 (aka React Fiber) and get a better working understanding of Components, using Props, working with State, Inline Conditionals & Basic Events, and LifeCycle Methods.
+To take a look at some of the new features in React.JS 16 (aka React Fiber) and to get a better working understanding of Components, using Props, working with State, Basic Conditionals in JSX, Basic Events, and LifeCycle Methods.
 
 
 ----
