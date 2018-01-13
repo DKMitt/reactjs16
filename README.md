@@ -31,7 +31,7 @@ To take a look at some of the new features with React.JS 16 (aka React Fiber) an
 - Installation and use of ​Create-React-App with an indepth understanding of the files and structure.
 - ​A better understanding of creating & working with Components.
 - ​Working with Props, using object assignment deconstructing, passing data from a parent to a child component.
-- ​State, Inline Conditionals & Basic Events
+- ​Changing State, Basic Events and Basic Conditionals in JSX.
 - LifeCycle Methods 
 - ​
 - ​

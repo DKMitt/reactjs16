@@ -3,6 +3,17 @@ import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
+
+  state = {
+    toggle: true
+  }
+
+  toggle = () => {
+    this.setState({
+      toggle: !this.state.toggle
+    })
+  }
+
   render() {
     return (
       <div className="App">
@@ -14,11 +25,20 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <Midcontent />
+        <Midcontent midtext="Here is Something Too!"/>
+          <hr /><br />
+        {this.state.toggle &&
+          <p>Click the button to show and hide this<br />
+          <img src={logo} className="App-logo" alt="logo" /></p>
+          
+        }
+        
+        <button onClick={this.toggle}>Show / Hide</button>
       </div>
     );
   }
 }
+
 
 class Welcome extends Component {
   render() {
@@ -29,6 +49,7 @@ class Welcome extends Component {
   }
 }
 
+
 class Subtitle extends Component {
   render() {
     return (
@@ -37,10 +58,12 @@ class Subtitle extends Component {
   }
 }
 
+
 class Midcontent extends Component {
   render() {
+    const { midtext } = this.props;
     return (
-      <h3>Here is Something Too!</h3>
+      <h3 className="App-title">{midtext}</h3>
     )
   }
 }
