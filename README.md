@@ -39,7 +39,7 @@ To take a look at some of the new features in React.JS 16 (aka React Fiber) and 
 
 Description of website technologies used to develop this app.
 
-- REACT.JS based using [create-react-app](https://github.com/facebookincubator/create-react-app), currently it is a thin layer on top of many amazing community projects, such as [create-react-app](https://github.com/facebookincubator/create-react-app), Additional information on using the Create-React-App can also befound here on the [create-react-app readme.md](public/Create-React-App-README.md) file.
+- REACT.JS based using [create-react-app](https://github.com/facebookincubator/create-react-app), currently it is a thin layer on top of many amazing community projects, such as [create-react-app](https://github.com/facebookincubator/create-react-app), Additional information on using the Create-React-App can also befound here on the [create-react-app readme.md](https://github.com/DKMitt/reactjs16/blob/master/Create-React-App-README.md) file.
 
 - webpack with webpack-dev-server, html-webpack-plugin and style-loader
   Babel with ES6 and extensions used by Facebook (JSX, object spread, class properties)
