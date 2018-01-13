@@ -39,7 +39,7 @@ To take a look at some of the new features in React.JS 16 (aka React Fiber) and 
 
 Description of website technologies used to develop this app.
 
-- REACT.JS based using [create-react-app](https://github.com/facebookincubator/create-react-app), currently it is a thin layer on top of many amazing community projects, such as ([create-react-app readme.md](public/Create-React-App-README.md)):
+- REACT.JS based using [create-react-app](https://github.com/facebookincubator/create-react-app), currently it is a thin layer on top of many amazing community projects, such as [create-react-app](https://github.com/facebookincubator/create-react-app), Additional information on using the Create-React-App can also befound here on the [create-react-app readme.md](public/Create-React-App-README.md) file.
 
 - webpack with webpack-dev-server, html-webpack-plugin and style-loader
   Babel with ES6 and extensions used by Facebook (JSX, object spread, class properties)
@@ -54,7 +54,7 @@ Description of website technologies used to develop this app.
   ​
 
 __<u>Dependecies</u>__
- ```   
+```   
     react: 16.2.0,
     react-dom: 16.2.0,
     react-scripts: 1.0.17
@@ -114,6 +114,7 @@ To start the app use the following command
 └── README.md            
 ```
 ----
+
 ### Revision History 
 
 Description of revisions made - __Completed: 01/12/2018__
