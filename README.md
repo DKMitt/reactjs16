@@ -5,14 +5,14 @@ To take a look at some of the new features in React.JS 16 (aka React Fiber) and 
 
 
 
-__Project Status - Date Completed: 01/12/2018__
+__Project Status - Completed: 01/12/2018__
 
 ----
 
 ### Table of Contents
 
   -  Description
-  -  What I Learned From Working With This Tutorial
+  -  What I Learned From The Review
   -  Website Technologies Used
   -  How to View This App
   -  File and Directory Structure
@@ -26,7 +26,7 @@ To take a look at some of the new features in React.JS 16 (aka React Fiber) and 
 
 ----
 
-### What I Learned From Working With This Tutorial
+### What I Learned From The Review
 - Installation and use of ​Create-React-App with an indepth understanding of the files and structure.
 - ​A better understanding of creating & working with Components.
 - ​Working with Props, using object assignment deconstructing, passing data from a parent to a child component.
@@ -116,7 +116,7 @@ To start the app use the following command
 ----
 ### Revision History 
 
-Description of revisions made - __Date Completed: 01/12/2018__
+Description of revisions made - __Completed: 01/12/2018__
 
   - [x] Dev - file and directory structure creation & completion  - 01/12/2018
 
