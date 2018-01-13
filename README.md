@@ -32,9 +32,7 @@ To take a look at some of the new features with React.JS 16 (aka React Fiber) an
 - ​A better understanding of creating & working with Components.
 - ​Working with Props, using object assignment deconstructing, passing data from a parent to a child component.
 - ​Changing State, Basic Events and Basic Conditionals in JSX.
-- LifeCycle Methods 
-- ​
-- ​
+- Reviewed Constructor and various Component LifeCycle Methods, componentWillMount, componentDidMount, shouldComponentUpdate, componentWillReceiveProps, componentWillUpdate, componentDidUpdate, componentWillUnmount, and componentDidCatch.
 
 ----
 
